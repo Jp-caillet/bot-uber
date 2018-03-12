@@ -1,0 +1,24 @@
+{
+  "name": "bot-uber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jp-caillet/bot-uber.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jp-caillet/bot-uber/issues"
+  },
+  "homepage": "https://github.com/Jp-caillet/bot-uber#readme",
+  "dependencies": {
+    "deasync": "^0.1.12",
+    "eslint": "^4.18.2",
+    "request": "^2.83.0"
+  }
+}
